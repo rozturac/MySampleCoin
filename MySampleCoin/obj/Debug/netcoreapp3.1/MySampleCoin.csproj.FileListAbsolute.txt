@@ -1,0 +1,15 @@
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.csprojAssemblyReference.cache
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.AssemblyInfoInputs.cache
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.AssemblyInfo.cs
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.csproj.CoreCompileInputs.cache
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\bin\Debug\netcoreapp3.1\MySampleCoin.exe
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\bin\Debug\netcoreapp3.1\MySampleCoin.deps.json
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\bin\Debug\netcoreapp3.1\MySampleCoin.runtimeconfig.json
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\bin\Debug\netcoreapp3.1\MySampleCoin.runtimeconfig.dev.json
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\bin\Debug\netcoreapp3.1\MySampleCoin.dll
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\bin\Debug\netcoreapp3.1\MySampleCoin.pdb
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.csproj.CopyComplete
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.dll
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.pdb
+C:\Users\rozturac\source\repos\MySampleCoin\MySampleCoin\obj\Debug\netcoreapp3.1\MySampleCoin.genruntimeconfig.cache
